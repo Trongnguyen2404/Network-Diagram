@@ -1,5 +1,5 @@
 const PDF_FILE = 'my_document.pdf';
-const NUM_ROWS = 4;
+const NUM_ROWS = 5;
 
 const CROP_MARGINS = {
     top: 36.3,
